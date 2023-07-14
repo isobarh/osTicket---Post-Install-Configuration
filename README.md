@@ -150,11 +150,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![Screenshot 2023-07-14 145704](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/970e9e94-d60d-4910-81c8-d45142f178d2)
 
-Configure Help Topics
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
+-Configure Help Topics
+
+-Admin Panel -> Manage -> Help Topics
+
+-Business Critical Outage
+
+-Personal Computer Issues
+
+-Equipment Request
+
+-Password Reset
+
+![Screenshot 2023-07-14 145906](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/bb7cd030-ec95-4ddc-aeda-3be3bc80177a)
+
+![Screenshot 2023-07-14 150018](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/28566131-4fc1-4581-9294-f54ef39359df)
+
+![Screenshot 2023-07-14 150538](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/a6ecaead-164e-4207-9a62-b6a2e65af997)
+
 
 
