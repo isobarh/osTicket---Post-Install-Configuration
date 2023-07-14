@@ -119,18 +119,36 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![Screenshot 2023-07-14 144901](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/3013c96e-1eda-40bc-9e65-8ac027abd1b0)
 
 
-Configure Users (customers)
-Agent Panel -> Users -> Add New
-Karen
-Ken
+-Configure Users (customers)
+
+-Agent Panel -> Users -> Add New
+
+-Karen
+
+-Ken
+
+![Screenshot 2023-07-14 145035](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/73ef4889-ba15-4ff1-975e-bf3538a109f8)
+
+![Screenshot 2023-07-14 145203](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/f5f079fe-3597-4bf0-8059-f4857b720c76)
+
+![Screenshot 2023-07-14 145332](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/7adfff91-b46a-474c-9b7d-133c4b57067e)
 
 
-Configure SLA
-Admin Panel -> Manage -> SLA
-Sev-A (1 hour, 24/7)
-Sev-B (4 hours, 24/7)
-Sev-C (8 hours, business hours)
+-Configure SLA
 
+-Admin Panel -> Manage -> SLA
+
+-Sev-A (1 hour, 24/7)
+
+-Sev-B (4 hours, 24/7)
+
+-Sev-C (8 hours, business hours)
+
+![Screenshot 2023-07-14 145433](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/395ebe4f-1795-4d13-a6f5-f6c4f5220288)
+
+![Screenshot 2023-07-14 145540](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/3fca50df-0fc5-494b-a76e-dfeca67d2bd2)
+
+![Screenshot 2023-07-14 145704](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/970e9e94-d60d-4910-81c8-d45142f178d2)
 
 Configure Help Topics
 Admin Panel -> Manage -> Help Topics
