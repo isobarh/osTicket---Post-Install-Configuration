@@ -1,4 +1,4 @@
-![Screenshot 2023-07-14 143143](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/da728f66-32ad-45e0-8787-c4f0bcc7657b)![Screenshot 2023-07-14 143143](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/eabd0e96-f861-4714-a784-f43125c3b0ce)<p align="center">
+
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -75,26 +75,40 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![Screenshot 2023-07-14 142950](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/fa54b703-96bd-4f8e-963c-a1b587646aaa)
 
 
-Configure Teams
-Admin Panel -> Agents -> Teams
-Level I Support
-Level II Support
+-Configure Teams
+
+-Admin Panel -> Agents -> Teams
+
+-Level I Support
+
+-Level II Support
 
 ![Screenshot 2023-07-14 143039](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/0ce5ec23-4905-4f72-90ea-5d8f568d22a7)
 
+![Screenshot 2023-07-14 143143](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/4d47b726-fbfa-40ac-ae69-f4f814898ade)
+
+![Screenshot 2023-07-14 143217](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/8ae29121-4fe6-4667-bed8-89064dc3ae74)
 
 
 
+-Allow anyone to create tickets
 
-Allow anyone to create tickets
-Admin Panel -> Settings -> User Settings
-Registration Required: Require registration and login to create tickets 
+-Admin Panel -> Settings -> User Settings
+
+-Registration Required: Require registration and login to create tickets 
+
+![Screenshot 2023-07-14 143357](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/634fb0a0-1359-4bfb-8af2-d212e8e08816)
 
 
-Configure Agents (workers)
-Admin Panel -> Agents -> Add New
-Jane
-John
+-Configure Agents (workers)
+
+-Admin Panel -> Agents -> Add New
+
+-Jane.Doe
+
+-John.Doe
+
+
 
 
 Configure Users (customers)
