@@ -108,7 +108,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 -John.Doe
 
+![Screenshot 2023-07-14 143913](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/dc8701f7-1bbe-4a85-a2d0-3f6d83a482fd)
 
+![Screenshot 2023-07-14 144031](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/721b5608-84d9-4a51-8310-4dee975022f9)
+
+![Screenshot 2023-07-14 144216](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/6291a53b-aa86-4708-a4d2-90d550f0173a)
+
+![Screenshot 2023-07-14 144306](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/419001b6-22b5-4f01-a4bd-398619df7512)
+
+![Screenshot 2023-07-14 144901](https://github.com/isobarh/osTicket---Post-Install-Configuration/assets/139295370/3013c96e-1eda-40bc-9e65-8ac027abd1b0)
 
 
 Configure Users (customers)
